@@ -1,0 +1,30 @@
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\bin\Debug\YılanOyunu.exe.config
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\bin\Debug\YılanOyunu.exe
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\bin\Debug\YılanOyunu.pdb
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.csprojAssemblyReference.cache
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.Form1.resources
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.Properties.Resources.resources
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.csproj.GenerateResource.cache
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.csproj.CoreCompileInputs.cache
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.exe
+D:\c# yılan oyunu\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.csprojAssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\obj\Debug\YılanOyunu.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\bin\Debug\YılanOyunu.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\bin\Debug\YılanOyunu.exe
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\YılanOyunu\bin\Debug\YılanOyunu.pdb
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\bin\Debug\YılanOyunu.exe.config
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\bin\Debug\YılanOyunu.exe
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\bin\Debug\YılanOyunu.pdb
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.csprojAssemblyReference.cache
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.Properties.Resources.resources
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.csproj.GenerateResource.cache
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.exe
+C:\Users\Ertuğrul\Downloads\180757045_ErtuğrulSarı\YılanOyunu\obj\Debug\YılanOyunu.pdb
